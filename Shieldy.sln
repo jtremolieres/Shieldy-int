@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shieldy", "Shieldy.csproj", "{946A6AD1-226B-4090-850A-0EDDB4B96334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{946A6AD1-226B-4090-850A-0EDDB4B96334}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{946A6AD1-226B-4090-850A-0EDDB4B96334}.All|Any CPU.Build.0 = Release|Any CPU
+		{946A6AD1-226B-4090-850A-0EDDB4B96334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946A6AD1-226B-4090-850A-0EDDB4B96334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946A6AD1-226B-4090-850A-0EDDB4B96334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946A6AD1-226B-4090-850A-0EDDB4B96334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19700FBD-4B11-4190-BE40-80217176407F}.All|Any CPU.ActiveCfg = DefaultBuild
+		{19700FBD-4B11-4190-BE40-80217176407F}.All|Any CPU.Build.0 = DefaultBuild
+		{19700FBD-4B11-4190-BE40-80217176407F}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{19700FBD-4B11-4190-BE40-80217176407F}.Debug|Any CPU.Build.0 = DefaultBuild
+		{19700FBD-4B11-4190-BE40-80217176407F}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{19700FBD-4B11-4190-BE40-80217176407F}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEDBBCF2-8635-4A33-B5A8-D1D737AE62DC}
+	EndGlobalSection
+EndGlobal
